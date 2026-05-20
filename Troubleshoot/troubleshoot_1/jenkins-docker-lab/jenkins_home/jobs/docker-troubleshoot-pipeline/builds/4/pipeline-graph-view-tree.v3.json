@@ -1,0 +1,1 @@
+{"stages":[{"id":"6","name":"Build","children":[],"state":"failure","type":"STAGE","title":"Build","isSequential":false,"synthetic":false,"placeholder":false,"pauseDurationMillis":0,"totalDurationMillis":2743,"startTimeMillis":1779192200448,"agent":"built-in","url":"/job/docker-troubleshoot-pipeline/4/stages/?selected-node=6"}],"complete":true}

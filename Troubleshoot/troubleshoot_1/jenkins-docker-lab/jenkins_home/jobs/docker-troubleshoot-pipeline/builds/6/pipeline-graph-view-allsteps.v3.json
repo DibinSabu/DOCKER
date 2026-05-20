@@ -1,0 +1,1 @@
+{"steps":[{"id":"7","name":"mvn clean package","state":"success","type":"STEP","title":"","pauseDurationMillis":0,"totalDurationMillis":2901,"startTimeMillis":1779261841884,"stageId":"6","flags":{}}],"runIsComplete":true}
